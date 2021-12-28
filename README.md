@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Nest.js-informational?style=flat&logo=NestJS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JWT-informational?style=flat&logo=JSON Web Tokens&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JWT-informational?style=flat&logo=JSONWebTokens&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jest-informational?style=flat&logo=Jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=2bbc8a)
 
