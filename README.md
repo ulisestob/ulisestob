@@ -22,7 +22,7 @@
 
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=GoogleCloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Amazon AWS-informational?style=flat&logo=Amazon AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Amazon%20AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
