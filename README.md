@@ -1,6 +1,6 @@
 ### Hi there 👋
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=4a90e2)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4a90e2)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=ff0000)
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4a90e2)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4a90e2)
