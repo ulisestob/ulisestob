@@ -34,4 +34,9 @@
 ![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=RabbitMQ&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=F60200)
 
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ulisestob&show_icons=true&theme=tokyonight)
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisestob&layout=compact) -->
