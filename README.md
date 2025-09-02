@@ -3,16 +3,16 @@
 [![committers.top badge](https://user-badge.committers.top/el_salvador_private/ulisestob.svg)](https://user-badge.committers.top/el_salvador_private/ulisestob)
 
 ### 🖥️ Programming Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,py&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,space,space,space,space&perline=7)](https://skillicons.dev)
 
 ### ⚛️ Frameworks & Libraries
 [![Frameworks](https://skillicons.dev/icons?i=nestjs,react,nextjs,express,tailwind,nodejs,redux,graphql,reactivex,bootstrap,materialui,astro,flask&perline=7)](https://skillicons.dev)
 
 ### 🌐 Web
-[![Web](https://skillicons.dev/icons?i=html,css,javascript,sass&perline=7)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=html,css,javascript,sass,space,space,space&perline=7)](https://skillicons.dev)
 
 ### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=7)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,space,space,space&perline=7)](https://skillicons.dev)
 
 ### ☁️ Cloud / Infrastructure
 [![Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,docker,rabbitmq,vercel&perline=7)](https://skillicons.dev)
