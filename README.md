@@ -9,7 +9,7 @@
 [![Frameworks](https://skillicons.dev/icons?i=nestjs,react,nextjs,express,tailwind,nodejs,redux,graphql,reactivex,bootstrap,materialui,astro,flask&perline=7)](https://skillicons.dev)
 
 ### 🌐 Web
-[![Web](https://skillicons.dev/icons?i=html,css,javascript,sass,space,space,space&perline=7)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=html,css,sass,space,space,space,space&perline=7)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,space,space,space&perline=7)](https://skillicons.dev)
