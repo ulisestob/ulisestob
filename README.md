@@ -3,22 +3,22 @@
 [![committers.top badge](https://user-badge.committers.top/el_salvador_private/ulisestob.svg)](https://user-badge.committers.top/el_salvador_private/ulisestob)
 
 ### 🖥️ Programming Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,py&perline=4)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,py&perline=7)](https://skillicons.dev)
 
 ### ⚛️ Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=nestjs,react,nextjs,express,tailwind,nodejs,redux,graphql,reactivex,bootstrap,materialui,astro,flask&perline=6)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nestjs,react,nextjs,express,tailwind,nodejs,redux,graphql,reactivex,bootstrap,materialui,astro,flask&perline=7)](https://skillicons.dev)
 
 ### 🌐 Web
-[![Web](https://skillicons.dev/icons?i=html,css,javascript,sass&perline=6)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=html,css,javascript,sass&perline=7)](https://skillicons.dev)
 
 ### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=4)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=7)](https://skillicons.dev)
 
 ### ☁️ Cloud / Infrastructure
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,docker,rabbitmq,vercel&perline=6)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,docker,rabbitmq,vercel&perline=7)](https://skillicons.dev)
 
 ### 🛠️ Development Tools
-[![Tools](https://skillicons.dev/icons?i=npm,pnpm,yarn,vscode,postman,notion,cypress,sentry,github,bitbucket,figma,apple,linux,arduino&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=npm,pnpm,yarn,vscode,postman,notion,cypress,sentry,github,bitbucket,figma,apple,linux,arduino&perline=7)](https://skillicons.dev)
 
 
 
