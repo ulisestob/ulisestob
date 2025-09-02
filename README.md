@@ -2,6 +2,9 @@
 
 [![committers.top badge](https://user-badge.committers.top/el_salvador_private/ulisestob.svg)](https://user-badge.committers.top/el_salvador_private/ulisestob)
 
+[![My Skills](https://skillicons.dev/icons?i=apple,arduino,astro,bootstrap,css,aws,cloudflare,bitbucket,cypress,docker,express,figma,firebase,flask,gcp,github,graphql,html,materialui,mongodb,mysql,nestjs,nextjs,nodejs,notion,npm,pnpm,postgres,postman,py,rabbitmq,react,redis,redux,sentry,tailwind,ts,ubuntu,vscode,yarn&perline=8)](https://skillicons.dev)
+
+
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=F60200)
 
@@ -35,8 +38,6 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=F60200)
 
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ulisestob&show_icons=true&theme=tokyonight)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ulisestob&show_icons=true&theme=tokyonight) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisestob&layout=compact) -->
